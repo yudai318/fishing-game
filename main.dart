@@ -3,6 +3,9 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/first_page.dart';
 
+//yudaikaneko_report_yabaiyo_yabaiyo
+
+
 void main() {
   runApp(const MyApp());
 }
