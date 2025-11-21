@@ -68,8 +68,6 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
     );
   }
-}
+} /*こんにちはみなさん見てます？*/
 
 //プッシュプッシュ
-//ぷっしゅぷっしゅ
-//俺は富永陽斗
