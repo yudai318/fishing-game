@@ -71,6 +71,4 @@ class _MyHomePageState extends State<MyHomePage> {
 }
 
 //プッシュプッシュ
-
-//aaaaaaaaaaaaaaaaaaaa
-//編集
+//ぷっしゅぷっしゅ
