@@ -5,7 +5,6 @@ import 'package:flutter_application_1/first_page.dart';
 
 //yudaikaneko_report_yabaiyo_yabaiyo
 
-
 void main() {
   runApp(const MyApp());
 }
@@ -70,3 +69,5 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
+//プッシュプッシュ
